@@ -10,7 +10,7 @@ export default function NavBar() {
         </div>
         <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 border rounded-lg">
             <h1 className="text-4xl md:text-7xl text-blue-500 font-bold">Brohnst</h1>
-            <p className="text-2xl font-semibold">Interested in machine learning, cyber and development</p>
+            <h6 className="text-2xl font-semibold">Interested in machine learning, cyber and development</h6>
         </div>
         </>
     )
