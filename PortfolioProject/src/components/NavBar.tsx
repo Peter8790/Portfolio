@@ -8,9 +8,9 @@ export default function NavBar() {
                 <a href="https://github.com/Peter8790" className="text-white font-semibold">GitHub</a>
             </div>
         </div>
-        <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 border rounded-lg">
-            <h1 className="text-4xl md:text-7xl text-blue-500 font-bold">Brohnst</h1>
-            <h6 className="text-2xl font-semibold">Interested in machine learning, cyber and development</h6>
+        <div className="flex items-center justify-center flex-col text-center pt-10 pb-6 border rounded-lg">
+            <h1 className="text-4xl md:text-7xl text-blue-500 font-bold">Welcome to my portfolio</h1>
+            <h6 className="text-2xl font-semibold pt-5">Blockchain, Machine Learning, Front-End and Cyber</h6>
         </div>
         </>
     )
